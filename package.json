@@ -1,6 +1,7 @@
 {
   "name": "react-cv",
   "version": "0.1.0",
+  "homepage": "http://Divan102.github.io/React-CV",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
